@@ -1,0 +1,1101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content component should match snapshot 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Content />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <div
+          className="content"
+        >
+          <div
+            className="about"
+          >
+            <div
+              className="about-para-1 col-1"
+            >
+              Meet Expense Tracker...
+            </div>
+            <div
+              className="about-para-2 col-1"
+            >
+              Easy way to add a expense and track your expenses to manage your money
+            </div>
+            <Link
+              className="add-expense col-1"
+              replace={false}
+              to="/add"
+            >
+              <FontAwesomeIcon
+                border={false}
+                className=""
+                fixedWidth={false}
+                flip={null}
+                icon={
+                  Object {
+                    "icon": Array [
+                      448,
+                      512,
+                      Array [],
+                      "f0fe",
+                      "M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-32 252c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92H92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z",
+                    ],
+                    "iconName": "plus-square",
+                    "prefix": "fas",
+                  }
+                }
+                inverse={false}
+                listItem={false}
+                mask={null}
+                pull={null}
+                pulse={false}
+                rotation={null}
+                size={null}
+                spin={false}
+                symbol={false}
+                title=""
+                transform={null}
+              />
+               Add New Expense 
+            </Link>
+          </div>
+        </div>,
+        <div
+          className="about-para-3"
+        >
+          <div
+            className="col-1"
+          >
+            <ul>
+              <lh>
+                Record your expenses
+              </lh>
+              <li>
+                Make entry for each and every expense
+              </li>
+              <li>
+                In case of multiple expense of same category you create a report of multiple expenses
+              </li>
+            </ul>
+          </div>
+          <div
+            className="col-1"
+          >
+            <ul>
+              <lh>
+                Track your Investments
+              </lh>
+              <li>
+                Compare your expenses with previous months
+              </li>
+              <li>
+                Keep track of expense category where you spend a lot
+              </li>
+            </ul>
+          </div>
+        </div>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <div
+            className="about"
+          >
+            <div
+              className="about-para-1 col-1"
+            >
+              Meet Expense Tracker...
+            </div>
+            <div
+              className="about-para-2 col-1"
+            >
+              Easy way to add a expense and track your expenses to manage your money
+            </div>
+            <Link
+              className="add-expense col-1"
+              replace={false}
+              to="/add"
+            >
+              <FontAwesomeIcon
+                border={false}
+                className=""
+                fixedWidth={false}
+                flip={null}
+                icon={
+                  Object {
+                    "icon": Array [
+                      448,
+                      512,
+                      Array [],
+                      "f0fe",
+                      "M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-32 252c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92H92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z",
+                    ],
+                    "iconName": "plus-square",
+                    "prefix": "fas",
+                  }
+                }
+                inverse={false}
+                listItem={false}
+                mask={null}
+                pull={null}
+                pulse={false}
+                rotation={null}
+                size={null}
+                spin={false}
+                symbol={false}
+                title=""
+                transform={null}
+              />
+               Add New Expense 
+            </Link>
+          </div>,
+          "className": "content",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <div
+                className="about-para-1 col-1"
+              >
+                Meet Expense Tracker...
+              </div>,
+              <div
+                className="about-para-2 col-1"
+              >
+                Easy way to add a expense and track your expenses to manage your money
+              </div>,
+              <Link
+                className="add-expense col-1"
+                replace={false}
+                to="/add"
+              >
+                <FontAwesomeIcon
+                  border={false}
+                  className=""
+                  fixedWidth={false}
+                  flip={null}
+                  icon={
+                    Object {
+                      "icon": Array [
+                        448,
+                        512,
+                        Array [],
+                        "f0fe",
+                        "M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-32 252c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92H92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z",
+                      ],
+                      "iconName": "plus-square",
+                      "prefix": "fas",
+                    }
+                  }
+                  inverse={false}
+                  listItem={false}
+                  mask={null}
+                  pull={null}
+                  pulse={false}
+                  rotation={null}
+                  size={null}
+                  spin={false}
+                  symbol={false}
+                  title=""
+                  transform={null}
+                />
+                 Add New Expense 
+              </Link>,
+            ],
+            "className": "about",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Meet Expense Tracker...",
+                "className": "about-para-1 col-1",
+              },
+              "ref": null,
+              "rendered": "Meet Expense Tracker...",
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Easy way to add a expense and track your expenses to manage your money",
+                "className": "about-para-2 col-1",
+              },
+              "ref": null,
+              "rendered": "Easy way to add a expense and track your expenses to manage your money",
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "children": Array [
+                  <FontAwesomeIcon
+                    border={false}
+                    className=""
+                    fixedWidth={false}
+                    flip={null}
+                    icon={
+                      Object {
+                        "icon": Array [
+                          448,
+                          512,
+                          Array [],
+                          "f0fe",
+                          "M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-32 252c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92H92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z",
+                        ],
+                        "iconName": "plus-square",
+                        "prefix": "fas",
+                      }
+                    }
+                    inverse={false}
+                    listItem={false}
+                    mask={null}
+                    pull={null}
+                    pulse={false}
+                    rotation={null}
+                    size={null}
+                    spin={false}
+                    symbol={false}
+                    title=""
+                    transform={null}
+                  />,
+                  " Add New Expense ",
+                ],
+                "className": "add-expense col-1",
+                "replace": false,
+                "to": "/add",
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "function",
+                  "props": Object {
+                    "border": false,
+                    "className": "",
+                    "fixedWidth": false,
+                    "flip": null,
+                    "icon": Object {
+                      "icon": Array [
+                        448,
+                        512,
+                        Array [],
+                        "f0fe",
+                        "M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-32 252c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92H92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z",
+                      ],
+                      "iconName": "plus-square",
+                      "prefix": "fas",
+                    },
+                    "inverse": false,
+                    "listItem": false,
+                    "mask": null,
+                    "pull": null,
+                    "pulse": false,
+                    "rotation": null,
+                    "size": null,
+                    "spin": false,
+                    "symbol": false,
+                    "title": "",
+                    "transform": null,
+                  },
+                  "ref": null,
+                  "rendered": null,
+                  "type": [Function],
+                },
+                " Add New Expense ",
+              ],
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <div
+              className="col-1"
+            >
+              <ul>
+                <lh>
+                  Record your expenses
+                </lh>
+                <li>
+                  Make entry for each and every expense
+                </li>
+                <li>
+                  In case of multiple expense of same category you create a report of multiple expenses
+                </li>
+              </ul>
+            </div>,
+            <div
+              className="col-1"
+            >
+              <ul>
+                <lh>
+                  Track your Investments
+                </lh>
+                <li>
+                  Compare your expenses with previous months
+                </li>
+                <li>
+                  Keep track of expense category where you spend a lot
+                </li>
+              </ul>
+            </div>,
+          ],
+          "className": "about-para-3",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <ul>
+                <lh>
+                  Record your expenses
+                </lh>
+                <li>
+                  Make entry for each and every expense
+                </li>
+                <li>
+                  In case of multiple expense of same category you create a report of multiple expenses
+                </li>
+              </ul>,
+              "className": "col-1",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <lh>
+                    Record your expenses
+                  </lh>,
+                  <li>
+                    Make entry for each and every expense
+                  </li>,
+                  <li>
+                    In case of multiple expense of same category you create a report of multiple expenses
+                  </li>,
+                ],
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Record your expenses",
+                  },
+                  "ref": null,
+                  "rendered": "Record your expenses",
+                  "type": "lh",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Make entry for each and every expense",
+                  },
+                  "ref": null,
+                  "rendered": "Make entry for each and every expense",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "In case of multiple expense of same category you create a report of multiple expenses",
+                  },
+                  "ref": null,
+                  "rendered": "In case of multiple expense of same category you create a report of multiple expenses",
+                  "type": "li",
+                },
+              ],
+              "type": "ul",
+            },
+            "type": "div",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": <ul>
+                <lh>
+                  Track your Investments
+                </lh>
+                <li>
+                  Compare your expenses with previous months
+                </li>
+                <li>
+                  Keep track of expense category where you spend a lot
+                </li>
+              </ul>,
+              "className": "col-1",
+            },
+            "ref": null,
+            "rendered": Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": Array [
+                  <lh>
+                    Track your Investments
+                  </lh>,
+                  <li>
+                    Compare your expenses with previous months
+                  </li>,
+                  <li>
+                    Keep track of expense category where you spend a lot
+                  </li>,
+                ],
+              },
+              "ref": null,
+              "rendered": Array [
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Track your Investments",
+                  },
+                  "ref": null,
+                  "rendered": "Track your Investments",
+                  "type": "lh",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Compare your expenses with previous months",
+                  },
+                  "ref": null,
+                  "rendered": "Compare your expenses with previous months",
+                  "type": "li",
+                },
+                Object {
+                  "instance": null,
+                  "key": undefined,
+                  "nodeType": "host",
+                  "props": Object {
+                    "children": "Keep track of expense category where you spend a lot",
+                  },
+                  "ref": null,
+                  "rendered": "Keep track of expense category where you spend a lot",
+                  "type": "li",
+                },
+              ],
+              "type": "ul",
+            },
+            "type": "div",
+          },
+        ],
+        "type": "div",
+      },
+    ],
+    "type": Symbol(react.fragment),
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <div
+            className="content"
+          >
+            <div
+              className="about"
+            >
+              <div
+                className="about-para-1 col-1"
+              >
+                Meet Expense Tracker...
+              </div>
+              <div
+                className="about-para-2 col-1"
+              >
+                Easy way to add a expense and track your expenses to manage your money
+              </div>
+              <Link
+                className="add-expense col-1"
+                replace={false}
+                to="/add"
+              >
+                <FontAwesomeIcon
+                  border={false}
+                  className=""
+                  fixedWidth={false}
+                  flip={null}
+                  icon={
+                    Object {
+                      "icon": Array [
+                        448,
+                        512,
+                        Array [],
+                        "f0fe",
+                        "M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-32 252c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92H92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z",
+                      ],
+                      "iconName": "plus-square",
+                      "prefix": "fas",
+                    }
+                  }
+                  inverse={false}
+                  listItem={false}
+                  mask={null}
+                  pull={null}
+                  pulse={false}
+                  rotation={null}
+                  size={null}
+                  spin={false}
+                  symbol={false}
+                  title=""
+                  transform={null}
+                />
+                 Add New Expense 
+              </Link>
+            </div>
+          </div>,
+          <div
+            className="about-para-3"
+          >
+            <div
+              className="col-1"
+            >
+              <ul>
+                <lh>
+                  Record your expenses
+                </lh>
+                <li>
+                  Make entry for each and every expense
+                </li>
+                <li>
+                  In case of multiple expense of same category you create a report of multiple expenses
+                </li>
+              </ul>
+            </div>
+            <div
+              className="col-1"
+            >
+              <ul>
+                <lh>
+                  Track your Investments
+                </lh>
+                <li>
+                  Compare your expenses with previous months
+                </li>
+                <li>
+                  Keep track of expense category where you spend a lot
+                </li>
+              </ul>
+            </div>
+          </div>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <div
+              className="about"
+            >
+              <div
+                className="about-para-1 col-1"
+              >
+                Meet Expense Tracker...
+              </div>
+              <div
+                className="about-para-2 col-1"
+              >
+                Easy way to add a expense and track your expenses to manage your money
+              </div>
+              <Link
+                className="add-expense col-1"
+                replace={false}
+                to="/add"
+              >
+                <FontAwesomeIcon
+                  border={false}
+                  className=""
+                  fixedWidth={false}
+                  flip={null}
+                  icon={
+                    Object {
+                      "icon": Array [
+                        448,
+                        512,
+                        Array [],
+                        "f0fe",
+                        "M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-32 252c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92H92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z",
+                      ],
+                      "iconName": "plus-square",
+                      "prefix": "fas",
+                    }
+                  }
+                  inverse={false}
+                  listItem={false}
+                  mask={null}
+                  pull={null}
+                  pulse={false}
+                  rotation={null}
+                  size={null}
+                  spin={false}
+                  symbol={false}
+                  title=""
+                  transform={null}
+                />
+                 Add New Expense 
+              </Link>
+            </div>,
+            "className": "content",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                <div
+                  className="about-para-1 col-1"
+                >
+                  Meet Expense Tracker...
+                </div>,
+                <div
+                  className="about-para-2 col-1"
+                >
+                  Easy way to add a expense and track your expenses to manage your money
+                </div>,
+                <Link
+                  className="add-expense col-1"
+                  replace={false}
+                  to="/add"
+                >
+                  <FontAwesomeIcon
+                    border={false}
+                    className=""
+                    fixedWidth={false}
+                    flip={null}
+                    icon={
+                      Object {
+                        "icon": Array [
+                          448,
+                          512,
+                          Array [],
+                          "f0fe",
+                          "M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-32 252c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92H92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z",
+                        ],
+                        "iconName": "plus-square",
+                        "prefix": "fas",
+                      }
+                    }
+                    inverse={false}
+                    listItem={false}
+                    mask={null}
+                    pull={null}
+                    pulse={false}
+                    rotation={null}
+                    size={null}
+                    spin={false}
+                    symbol={false}
+                    title=""
+                    transform={null}
+                  />
+                   Add New Expense 
+                </Link>,
+              ],
+              "className": "about",
+            },
+            "ref": null,
+            "rendered": Array [
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Meet Expense Tracker...",
+                  "className": "about-para-1 col-1",
+                },
+                "ref": null,
+                "rendered": "Meet Expense Tracker...",
+                "type": "div",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Easy way to add a expense and track your expenses to manage your money",
+                  "className": "about-para-2 col-1",
+                },
+                "ref": null,
+                "rendered": "Easy way to add a expense and track your expenses to manage your money",
+                "type": "div",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "class",
+                "props": Object {
+                  "children": Array [
+                    <FontAwesomeIcon
+                      border={false}
+                      className=""
+                      fixedWidth={false}
+                      flip={null}
+                      icon={
+                        Object {
+                          "icon": Array [
+                            448,
+                            512,
+                            Array [],
+                            "f0fe",
+                            "M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-32 252c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92H92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z",
+                          ],
+                          "iconName": "plus-square",
+                          "prefix": "fas",
+                        }
+                      }
+                      inverse={false}
+                      listItem={false}
+                      mask={null}
+                      pull={null}
+                      pulse={false}
+                      rotation={null}
+                      size={null}
+                      spin={false}
+                      symbol={false}
+                      title=""
+                      transform={null}
+                    />,
+                    " Add New Expense ",
+                  ],
+                  "className": "add-expense col-1",
+                  "replace": false,
+                  "to": "/add",
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "function",
+                    "props": Object {
+                      "border": false,
+                      "className": "",
+                      "fixedWidth": false,
+                      "flip": null,
+                      "icon": Object {
+                        "icon": Array [
+                          448,
+                          512,
+                          Array [],
+                          "f0fe",
+                          "M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm-32 252c0 6.6-5.4 12-12 12h-92v92c0 6.6-5.4 12-12 12h-56c-6.6 0-12-5.4-12-12v-92H92c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h92v-92c0-6.6 5.4-12 12-12h56c6.6 0 12 5.4 12 12v92h92c6.6 0 12 5.4 12 12v56z",
+                        ],
+                        "iconName": "plus-square",
+                        "prefix": "fas",
+                      },
+                      "inverse": false,
+                      "listItem": false,
+                      "mask": null,
+                      "pull": null,
+                      "pulse": false,
+                      "rotation": null,
+                      "size": null,
+                      "spin": false,
+                      "symbol": false,
+                      "title": "",
+                      "transform": null,
+                    },
+                    "ref": null,
+                    "rendered": null,
+                    "type": [Function],
+                  },
+                  " Add New Expense ",
+                ],
+                "type": [Function],
+              },
+            ],
+            "type": "div",
+          },
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <div
+                className="col-1"
+              >
+                <ul>
+                  <lh>
+                    Record your expenses
+                  </lh>
+                  <li>
+                    Make entry for each and every expense
+                  </li>
+                  <li>
+                    In case of multiple expense of same category you create a report of multiple expenses
+                  </li>
+                </ul>
+              </div>,
+              <div
+                className="col-1"
+              >
+                <ul>
+                  <lh>
+                    Track your Investments
+                  </lh>
+                  <li>
+                    Compare your expenses with previous months
+                  </li>
+                  <li>
+                    Keep track of expense category where you spend a lot
+                  </li>
+                </ul>
+              </div>,
+            ],
+            "className": "about-para-3",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <ul>
+                  <lh>
+                    Record your expenses
+                  </lh>
+                  <li>
+                    Make entry for each and every expense
+                  </li>
+                  <li>
+                    In case of multiple expense of same category you create a report of multiple expenses
+                  </li>
+                </ul>,
+                "className": "col-1",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <lh>
+                      Record your expenses
+                    </lh>,
+                    <li>
+                      Make entry for each and every expense
+                    </li>,
+                    <li>
+                      In case of multiple expense of same category you create a report of multiple expenses
+                    </li>,
+                  ],
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Record your expenses",
+                    },
+                    "ref": null,
+                    "rendered": "Record your expenses",
+                    "type": "lh",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Make entry for each and every expense",
+                    },
+                    "ref": null,
+                    "rendered": "Make entry for each and every expense",
+                    "type": "li",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "In case of multiple expense of same category you create a report of multiple expenses",
+                    },
+                    "ref": null,
+                    "rendered": "In case of multiple expense of same category you create a report of multiple expenses",
+                    "type": "li",
+                  },
+                ],
+                "type": "ul",
+              },
+              "type": "div",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": <ul>
+                  <lh>
+                    Track your Investments
+                  </lh>
+                  <li>
+                    Compare your expenses with previous months
+                  </li>
+                  <li>
+                    Keep track of expense category where you spend a lot
+                  </li>
+                </ul>,
+                "className": "col-1",
+              },
+              "ref": null,
+              "rendered": Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": Array [
+                    <lh>
+                      Track your Investments
+                    </lh>,
+                    <li>
+                      Compare your expenses with previous months
+                    </li>,
+                    <li>
+                      Keep track of expense category where you spend a lot
+                    </li>,
+                  ],
+                },
+                "ref": null,
+                "rendered": Array [
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Track your Investments",
+                    },
+                    "ref": null,
+                    "rendered": "Track your Investments",
+                    "type": "lh",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Compare your expenses with previous months",
+                    },
+                    "ref": null,
+                    "rendered": "Compare your expenses with previous months",
+                    "type": "li",
+                  },
+                  Object {
+                    "instance": null,
+                    "key": undefined,
+                    "nodeType": "host",
+                    "props": Object {
+                      "children": "Keep track of expense category where you spend a lot",
+                    },
+                    "ref": null,
+                    "rendered": "Keep track of expense category where you spend a lot",
+                    "type": "li",
+                  },
+                ],
+                "type": "ul",
+              },
+              "type": "div",
+            },
+          ],
+          "type": "div",
+        },
+      ],
+      "type": Symbol(react.fragment),
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromError": true,
+          "getDerivedStateFromProps": Object {
+            "hasShouldComponentUpdateBug": false,
+          },
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+    Symbol(enzyme.__providerValues__): undefined,
+  },
+  Symbol(enzyme.__providerValues__): Map {},
+}
+`;
